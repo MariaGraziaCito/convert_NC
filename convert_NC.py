@@ -3,7 +3,7 @@ import xarray as xr
 import matplotlib.pyplot as plt
 
 # Path to your NetCDF file
-nc_file = 'example.nc'
+nc_file = 'C3S422Lot2TEC_day-good-hci-month-proj_mean_monthly_1986_2005_v1.nc'
 
 # Using netCDF4
 print("Using netCDF4:")
